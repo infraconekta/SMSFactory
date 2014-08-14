@@ -1,0 +1,8 @@
+Erro ao receber o status do modem.
+Nao foi possivel ler o SMS.
+Traceback (most recent call last):
+  File "./readSmsService.py", line 36, in <module>
+    newSMS.deleteSMS(chipID,location)
+  File "/opt/SMSFactory/Classes/SMS.py", line 38, in deleteSMS
+    sm.Init()
+gammu.ERR_TIMEOUT: {'Text': u'No response in specified timeout. Probably phone not connected.', 'Code': 14, 'Where': 'Init'}
