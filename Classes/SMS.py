@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: iso-8859-1 -*-
-
+###cxkl\jzxlckç\jzçcl
 import re
 import gammu
 
